@@ -10,7 +10,7 @@ We play, we laugh
 
 ## Uke Tuesday
 
-Normalyy on the second Tuesday of the Month at Giesingerbräu
+Normaly on the second Tuesday of the Month at Giesingerbräu
 
 ![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
 
