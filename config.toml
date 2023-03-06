@@ -2,11 +2,12 @@ baseURL = 'https://preview.muc-uke.de/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-scroll'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
-
-defaultContentLanguage = "en"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -36,3 +37,16 @@ defaultContentLanguage = "en"
 
     [params.meta]
         keywords = "Munich, ukulele, collective, open, mic, karaoke"
+
+[languages]
+  [languages.en]
+    contentDir = 'content/english'
+    languageName = 'English'
+    weight = 10
+    title = 'My site'
+  [languages.de]
+    contentDir = 'content/deutsch'
+    languageName = 'Deutsch'
+    weight = 20
+    title = 'Meine Seite'
+
