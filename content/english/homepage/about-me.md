@@ -8,6 +8,6 @@ header_menu: true
 
 ##### Uke Tuesdays
 
-We're great and meetup once a month
+We're great and meetup once a month every month
 
 You should come check us out
