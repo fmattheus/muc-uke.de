@@ -12,7 +12,7 @@ We play, we laugh
 
 Normaly on the second Tuesday of the Month at Giesingerbräu
 
-![Nice picture to make you pay me ;-)](/images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
+![Nice picture to make you pay me ;-)](/images/Giesinger.jpeg)
 
 Come join us
 
@@ -22,7 +22,7 @@ Come join us
 
 At the Acoustic Sessions in Rumpler it gets more intimate
 
-![Let us get started on a clean slate](/images/board-bunch-cooking-food-349609.jpg)
+![Let us get started on a clean slate](/images/acoustic.jpeg)
 
 ---
 

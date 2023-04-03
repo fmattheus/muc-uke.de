@@ -12,7 +12,7 @@ Wir spieln und habe Spaß
 
 Normalerweise treffen wir uns am zweite Dienstag der monat bei Gieseingerbräu
 
-![Nice picture to make you pay me ;-)](/images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
+![Nice picture to make you pay me ;-)](/images/Giesinger.jpeg)
 
 Komm vorbei
 
@@ -22,7 +22,7 @@ Komm vorbei
 
 Beim Acoustic Sessions im Rumpler wird's intim
 
-![Let us get started on a clean slate](/images/board-bunch-cooking-food-349609.jpg)
+![Let us get started on a clean slate](/images/acoustic.jpeg)
 
 ---
 

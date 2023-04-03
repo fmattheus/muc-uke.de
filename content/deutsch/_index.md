@@ -1,5 +1,5 @@
 ---
-header_image: "/images/cover-image.jpg"
-header_headline: "Munich Ukulele Collective"
-header_subheadline: "Willkommen beim Munich Ukulele Collective"
+header_image: "/images/muc_logo__black_1920x1200.jpeg"
+# header_headline: "Munich Ukulele Collective"
+# header_subheadline: "Willkommen beim Munich Ukulele Collective"
 ---
