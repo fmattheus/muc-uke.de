@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="{{ "css/custom_css.css" | absURL }}" />
-
+<div class=flag-row>
 {{ $siteLanguages := site.Languages}}
 {{ $pageLang := .Page.Lang}}
 {{- range .Page.AllTranslations }}
@@ -10,4 +10,4 @@
         {{- end }}
     {{- end }}
 {{- end }}
-
+</div>

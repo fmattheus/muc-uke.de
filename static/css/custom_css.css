@@ -1,12 +1,8 @@
 /* Flags navigation */
-.flag{
-  padding: 0px;
-  margin: 0px;
-  color: #333333;
-  font-size: 90%;
+.flag-row{
   position: relative;
-  top: 30px;
-  float: right;
+  height: 0;
   z-index: 1000;
+  display: flex;
+  justify-content: flex-end;
 }
-
