@@ -1,6 +1,4 @@
-{{ range .Site.Params.custom_css -}}
-    <link rel="stylesheet" href="{{ . | absURL }}">
-{{- end }}
+<link rel="stylesheet" href="{{ "css/custom_css.css" | absURL }}" />
 
 {{ $siteLanguages := site.Languages}}
 {{ $pageLang := .Page.Lang}}
@@ -8,11 +6,7 @@
     {{ $translation := . }}
     {{- range sort $siteLanguages "Weight" "asc" }}
         {{- if eq $translation.Lang .Lang }}
-            {{ if eq $pageLang .Lang}}
-                <a class="flagselect" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageNameShort }}{{ .Params.languageFlag }}</a>
-            {{ else }}
-                <a class="flagnoselect" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageNameShort }}{{ .Params.languageFlag }}</a>
-            {{ end }}
+            <a class="flag" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageFlag }}</a>
         {{- end }}
     {{- end }}
 {{- end }}

@@ -1,16 +1,12 @@
 /* Flags navigation */
-.flagselect {
-  border: 1px solid #333333;
-  padding: 0px;
-  margin: 0px;
-  font-weight: bold;
-  color: black;
-  font-size: 90%;
-}
-.flagnoselect {
+.flag{
   padding: 0px;
   margin: 0px;
   color: #333333;
   font-size: 90%;
+  position: relative;
+  top: 30px;
+  float: right;
+  z-index: 1000;
 }
 
