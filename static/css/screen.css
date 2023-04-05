@@ -473,13 +473,18 @@ ul li {
   margin-bottom: 0rem;
   text-align: center;
   color: #fff;
-  background: #b80135 no-repeat center center;
+  background: #000000 no-repeat center center;
   background-size: cover;
 }
 
 /* Text area on big cover image */
 #site-head-content.inner {
-  top: 30%;
+    top: 70%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+    width: 100%;
+    margin: 0;
 }
 
 #site-head:after {
