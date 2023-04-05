@@ -6,7 +6,7 @@
     {{ $translation := . }}
     {{- range sort $siteLanguages "Weight" "asc" }}
         {{- if eq $translation.Lang .Lang }}
-            <a class="flag" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageFlag }}</a>
+        <a class="flag" href="{{ $translation.Permalink | relURL }}"><img src="{{ .Params.languageImage }}" alt="{{ .Params.languageNameShort }}"></a>
         {{- end }}
     {{- end }}
 {{- end }}

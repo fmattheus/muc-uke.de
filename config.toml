@@ -44,6 +44,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     languageName = 'English'
     languageNameShort = "en"
     languageFlag = "🇬🇧"
+    languageImage = "/images/EN.png"
     weight = 10
     title = 'My site'
   [languages.de]
@@ -51,5 +52,6 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     languageName = 'Deutsch'
     languageNameShort = "de"
     languageFlag = "🇩🇪"
+    languageImage = "/images/DE.png"
     weight = 20
     title = 'Meine Seite'
