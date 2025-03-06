@@ -6,7 +6,7 @@ header_menu: true
 
 **Vertreten durch:** Frank Mattheus
 
-**Kontakt: E-mail:** ukulelemuc@gmail.com
+**Kontakt: E-mail:** ukulelemuc (AT) gmail.com
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:** Frank Mattheus, Pfeuferstr 36, 81373 München
 
