@@ -1,8 +1,0 @@
-/* Flags navigation */
-.flag-row{
-  position: relative;
-  height: 0;
-  z-index: 1000;
-  display: flex;
-  justify-content: flex-end;
-}
