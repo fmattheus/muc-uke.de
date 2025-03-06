@@ -1,5 +1,6 @@
 ---
 title: "To end off with"
+navigation_menu_title: 'Summary'
 weight: 90
 header_menu: false
 ---

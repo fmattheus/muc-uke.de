@@ -1,5 +1,7 @@
 ---
 title: "Willkommen beim Munich Ukulele Collective!"
+navigation_menu_title: 'Wilkommen'
+header_menu: false
 weight: 10
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Impressum"
-weight: 98
-header_menu_title: "Impressum"
-navigation_menu_title: "Impressum"
+weight: 98ß
 header_menu: true
 detailed_page_path: "de/imprint"
 detailed_page_homepage_content: false

@@ -1,5 +1,6 @@
 ---
 title: "Zum Abschluss"
+navigation_menu_title: 'Abschluss'
 weight: 90
 header_menu: false
 ---
