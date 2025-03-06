@@ -1,8 +1,8 @@
 ---
-title: "Mein Angebot"
+title: "Services"
 ---
 
-Das ist die deutsche Variante von meinem Angebot.
+This is a page about the services, which I offer.
 
 It carries a lot more detail than what I put on the homepage - I swear!
 
