@@ -9,12 +9,16 @@ header_use_video: false
 header_logo: "images/MUC_logo_transparent.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-#header_headline: "Munich Ukulele Collective"
-#header_subheadline: "We are all about the <b>C</b>"
+header_headline: "München Ukulele Collective"
+header_subheadline: "Münchens lebendige Ukulele-Gemeinschaft"
+
+# SEO Metadata
+description: "Willkommen bei Münchens führender Ukulele-Gemeinschaft. Lernen, spielen und auftreten in freundlicher Atmosphäre. Regelmäßige Treffen in München."
+keywords: ["München Ukulele", "Ukulele München", "Ukulele lernen München", "Ukulele Gruppe München"]
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
-nav_to_top_title: "Return To Top"
+nav_to_top_title: "Zurück nach oben"
 nav_to_top_weight: last
 ---

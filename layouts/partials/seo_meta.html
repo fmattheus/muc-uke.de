@@ -1,0 +1,32 @@
+<!-- Additional SEO Meta Tags -->
+<meta name="geo.region" content="DE-BY" />
+<meta name="geo.placename" content="{{ if eq .Site.Language.Lang "de" }}München{{ else }}Munich{{ end }}" />
+<meta name="geo.position" content="48.137154;11.576124" />
+<meta name="ICBM" content="48.137154, 11.576124" />
+
+<!-- Schema.org markup -->
+<meta itemprop="name" content="{{ .Site.Title }}" />
+<meta itemprop="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}" />
+{{ with .Site.Params.images }}<meta itemprop="image" content="{{ index . 0 | absURL }}" />{{ end }}
+
+<!-- Open Graph data -->
+<meta property="og:locale" content="{{ if eq .Site.Language.Lang "de" }}de_DE{{ else }}en_US{{ end }}" />
+<meta property="og:locale:alternate" content="{{ if eq .Site.Language.Lang "de" }}en_US{{ else }}de_DE{{ end }}" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{ .Site.Title }}" />
+<meta property="og:description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+{{ with .Site.Params.images }}<meta property="og:image" content="{{ index . 0 | absURL }}" />{{ end }}
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ .Site.Title }}" />
+<meta name="twitter:description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}" />
+{{ with .Site.Params.images }}<meta name="twitter:image" content="{{ index . 0 | absURL }}" />{{ end }}
+
+<!-- Language alternates -->
+{{ range .Translations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}" /> 

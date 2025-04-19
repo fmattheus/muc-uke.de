@@ -1,7 +1,7 @@
 baseURL = 'https://preview.muc-uke.de/'
 
 # This is a "one page"-website, so we do not need these kinds of pages...
-disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 defaultContentLanguage = "en"
 
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Munich Ukulele Collective"
+title = "Munich Ukulele Collective | Learn Ukulele in Munich"
 
 # In order to add version information in the page's footer set to true.
 enableGitInfo = false
@@ -35,13 +35,11 @@ enableEmoji = true
     # see _index.md header_headline and header_subheadline
     title_guard = false
 
-    # Another "title" :-). This one is used as the site_name on the Hugo's internal
-    # opengraph structured data template.
-    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Munich Ukulele Collective"
+    # Site title for OpenGraph
+    title = "Munich Ukulele Collective - Learn & Play Ukulele in Munich"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "A group dedicated to promoting fun with ukuleles"
+    description = "Join Munich's premier ukulele community! Learn ukulele, join jam sessions, and connect with fellow musicians in Munich. Beginner-friendly ukulele group performances in Munich."
 
     # Show a menu of languages available
     language_menu = true
@@ -55,7 +53,7 @@ enableEmoji = true
     copyright = "© Frank Mattheus"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
-    # You can turn it off, but we would really appreciate if you don’t :-)
+    # You can turn it off, but we would really appreciate if you don't :-)
     hidedesignbyline = false
 
     # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
@@ -66,7 +64,7 @@ enableEmoji = true
 
     # Use "page_title | site_title" for <title> tags
     # e.g. <title>Legal | Jane Doe - Nutrition Coach & Chef Consultant</title>
-    combine_page_and_site_title = false
+    combine_page_and_site_title = true
 
     [params.footer]
     # Show contact icons for email/phone (if specified) in the footer of the page
@@ -76,7 +74,9 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "Munich, Ukulele, Collective, München, Giesing"
+        keywords = "Munich Ukulele, Ukulele Munich, München Ukulele, Ukulele Lessons Munich, Ukulele Group Munich, Learn Ukulele Munich, Ukulele Community Munich, Munich Music Groups, Ukulele Workshop Munich, Ukulele Classes München"
+        author = "Munich Ukulele Collective"
+        robots = "index, follow"
 
     [[params.contacts]]
         label = "phone"
@@ -109,9 +109,16 @@ enableEmoji = true
     weight = 10
     languageName = "English"
     contentDir = "content/en"
+    title = "Munich Ukulele Collective | Learn Ukulele in Munich"
+    description = "Join Munich's premier ukulele community! Learn ukulele, join jam sessions, and connect with fellow musicians in Munich. Beginner-friendly ukulele lessons and group performances in Munich."
+    [languages.en.params]
+        keywords = "Munich Ukulele, Ukulele Munich, München Ukulele, Ukulele Lessons Munich, Ukulele Group Munich, Learn Ukulele Munich, Ukulele Community Munich, Munich Music Groups, Ukulele Workshop Munich, Ukulele Classes München"
 
   [languages.de]
-    title = "Munich Ukulele Collective"
     weight = 20
-    contentDir = "content/de"
     languageName = "Deutsch"
+    contentDir = "content/de"
+    title = "München Ukulele Collective | Ukulele lernen in München"
+    description = "Münchens führende Ukulele-Gemeinschaft! Ukulele lernen, bei Jam-Sessions mitmachen und mit Musikern in München verbinden. Anfängerfreundliche Ukulele-Gruppe."
+    [languages.de.params]
+        keywords = "München Ukulele, Ukulele München, Ukulele Unterricht München, Ukulele Gruppe München, Ukulele lernen München, Ukulele Gemeinschaft München, München Musikgruppen, Ukulele Workshop München, Ukulele Kurs München"

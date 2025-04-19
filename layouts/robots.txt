@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /songbook/
+Disallow: /setlist/
+Disallow: /formatter/
+
+# Allow everything else
+Allow: /
+
+# Sitemap
+Sitemap: {{ .Site.BaseURL }}sitemap.xml 

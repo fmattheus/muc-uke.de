@@ -1,6 +1,8 @@
 <!-- A partial to be overwritten by the user.
      Its content will appear before the closing </head>-tag -->
 
+<!-- Include SEO Meta Tags -->
+{{ partial "seo_meta.html" . }}
 
 <!-- Custom CSS via inline styles
      You may use this template to add custom CSS to your site like so: -->
@@ -41,7 +43,9 @@
      local "static/css"-directory. Then add a <link>-tag
      referencing your "custom.css" like so: -->
 
-<!-- <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'> -->
+{{ $custom := resources.Get "css/custom.css" }}
+{{ $custom_style := $custom | resources.Minify }}
+<link rel="stylesheet" href="{{ $custom_style.RelPermalink }}">
 
 <!-- Custom CSS: Color Codes
      You may checkout https://htmlcolorcodes.com/ to get those

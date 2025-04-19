@@ -1,0 +1,45 @@
+/* Enhanced link styles */
+a {
+  color: #2b6cb0;  /* A rich blue color */
+  text-decoration: none;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: #1a4971;  /* Darker blue on hover */
+}
+
+/* Underline animation effect */
+a:not(.btn):not(.btn-lang):after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: currentColor;
+  transition: width 0.3s ease;
+}
+
+a:not(.btn):not(.btn-lang):hover:after {
+  width: 100%;
+}
+
+/* Make sure links in dark sections are visible */
+.post-holder.dark a {
+  color: #63b3ed;  /* Lighter blue for dark backgrounds */
+}
+
+.post-holder.dark a:hover {
+  color: #90cdf4;  /* Even lighter blue on hover for dark backgrounds */
+}
+
+/* Preserve button styles */
+a.btn, #site-languages .btn-lang {
+  text-decoration: none;
+}
+
+a.btn:after, #site-languages .btn-lang:after {
+  display: none;
+} 
