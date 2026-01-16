@@ -25,6 +25,23 @@ Admission: Free! But we do ask for a small donation (around €2) to help keep t
 
 For more details and to sign up, visit our [Meetup page](https://www.meetup.com/munchen-ukulele-meetup/).
 
+The next Events are:
+
+| Date                | Location                         |
+|--------------m------|----------------------------------|
+| Tue, 20 Jan 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Tue, 24 Feb 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Tue, 17 Mar 19:00   | KulturZentrum Giesinger Bahnhof  |
+| *Wed*, 29 Apr 19:00 | KulturZentrum Giesinger Bahnhof  |
+| Tue, 12 May 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Tue, 23 Jun 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Tue, 21 Jul 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Tue, 18 Aug 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Tue, 22 Sep 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Tue, 20 Oct 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Tue, 17 Nov 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Tue, 15 Dec 19:00   | KulturZentrum Giesinger Bahnhof  |
+
 #### Acoustic Meetups
 For a more relaxed experience, we also arrange acoustic gatherings at Rumpler or scenic outdoor spots like the Isar or local parks. These informal sessions are a great way to connect and enjoy music in a laid back setting.
 

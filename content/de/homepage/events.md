@@ -24,6 +24,23 @@ Falls du neu bei MUC bist, empfehlen wir dir, mindestens ein Event zu besuchen, 
 Eintritt: Kostenlos! Wir freuen uns aber über eine kleine Spende (ca. 2 €), um die Organisation zu unterstützen.
 Mehr Infos und Anmeldung auf unserer [Meetup-Seite](https://www.meetup.com/munchen-ukulele-meetup/).
 
+Die nächsten Veranstaltungen sind:
+
+| Datum              | Standort                         |
+|--------------------|----------------------------------|
+| Di, 20.01. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Di, 24.02. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Di, 17.03. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| *Mi*, 29.04. 19:00 | KulturZentrum Giesinger Bahnhof  |
+| Di, 12.05. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Di, 23.06. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Di, 21.07. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Di, 18.08. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Di, 22.09. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Di, 20.10. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Di, 17.11. 19:00   | KulturZentrum Giesinger Bahnhof  |
+| Di, 15.12. 19:00   | KulturZentrum Giesinger Bahnhof  |
+
 #### Akustik Treffen
 Für eine entspanntere Atmosphäre organisieren wir auch akustische Treffen im Rumpler oder an schönen Orten wie der Isar oder in Parks. Diese informellen Sessions sind eine tolle Gelegenheit, in gemütlicher Runde Musik zu machen und sich auszutauschen.
 
