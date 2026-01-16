@@ -28,7 +28,7 @@ For more details and to sign up, visit our [Meetup page](https://www.meetup.com/
 The next Events are:
 
 | Date                | Location                         |
-|--------------m------|----------------------------------|
+|---------------------|----------------------------------|
 | Tue, 20 Jan 19:00   | KulturZentrum Giesinger Bahnhof  |
 | Tue, 24 Feb 19:00   | KulturZentrum Giesinger Bahnhof  |
 | Tue, 17 Mar 19:00   | KulturZentrum Giesinger Bahnhof  |
