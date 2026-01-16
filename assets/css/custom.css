@@ -1,3 +1,8 @@
+:root {
+    /* Dark section - table strip background color */
+    --table-stripe-bg: #3A3A3A;
+    #b80135;
+}
 /* Enhanced link styles */
 a {
   color: #2b6cb0;  /* A rich blue color */
